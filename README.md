@@ -1,2 +1,4 @@
-# demo_perceptron
-Demonstration MATLAB perceptron implementation
+demo_perceptron
+===============
+
+Demonstration perceptron implementation in MATLAB.
